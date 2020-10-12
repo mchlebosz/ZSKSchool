@@ -30,7 +30,7 @@
     $oct = 011; //9
     $hex = 0x11;//17
 
-    echo "<br>$bin<hr>";
+    echo "<br>$hex<hr>";
 
     //składania heredoc
     $name = 'Janusz';
